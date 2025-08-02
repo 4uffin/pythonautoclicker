@@ -2,6 +2,8 @@
 
 A powerful and easy-to-use auto-clicker application built with Python and Tkinter. This tool allows you to automate mouse clicks with a variety of customizable settings, including adjustable speed, click type, and hotkey controls. The application is inspired by the popular **OP Auto Clicker**.
 
+> Warning: This application was developed with the assistance of a large language model. While every effort has been made to ensure its functionality and stability, users should be aware that it may contain unforeseen bugs or exhibit unexpected behavior.
+
 ## **Features**
 
 * **Configurable Click Speed**: Set your desired click rate in seconds, milliseconds, Clicks Per Second (CPS), or Clicks Per Minute (CPM).  
